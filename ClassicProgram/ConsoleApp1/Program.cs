@@ -1,4 +1,6 @@
 ﻿using FunctionLibrary;
+using FunctionLibrary._1_10;
+using FunctionLibrary.Extention_Method;
 using System;
 namespace ConsoleApp1
 {
@@ -7,8 +9,14 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             //1 Tinh tuoi
-            Console.WriteLine("Nhap vao tuoi");
-            YearOldCalculate.TinhTuoi(Console.ReadLine());
+            //Console.Write("Nhap vao nam sinh: ");
+            //int a = YearOldCalculate.TinhTuoi(Console.ReadLine());
+            //ExtentionMethods.PrintToConsole($"Tuoi cua ban la: {a}");
+
+            //Tinh tien taxi
+            Console.Write("Nhap so km: ");
+            decimal a = Taxi.CostCalculate(Console.ReadLine());
+            ExtentionMethods.PrintToConsole($"So tien la {a}", ConsoleColor.DarkRed);
         }
     }
 }

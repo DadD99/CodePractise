@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FunctionLibrary.Extention_Method
 {
-    public static class Extention_Methods
+    public static class ExtentionMethods
     {
         public static void PrintToConsole(string Message, ConsoleColor bgcolor = ConsoleColor.Cyan, ConsoleColor fgcolor = ConsoleColor.White)
         {
