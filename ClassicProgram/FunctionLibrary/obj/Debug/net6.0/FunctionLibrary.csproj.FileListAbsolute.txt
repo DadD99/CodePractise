@@ -1,0 +1,12 @@
+D:\KIẾN THỨC\1. CÔNG NGHỆ\0. LẬP TRÌNH\CSharp\Practise Algorithm\ClassicProgram\FunctionLibrary\bin\Debug\net6.0\FunctionLibrary.deps.json
+D:\KIẾN THỨC\1. CÔNG NGHỆ\0. LẬP TRÌNH\CSharp\Practise Algorithm\ClassicProgram\FunctionLibrary\bin\Debug\net6.0\FunctionLibrary.dll
+D:\KIẾN THỨC\1. CÔNG NGHỆ\0. LẬP TRÌNH\CSharp\Practise Algorithm\ClassicProgram\FunctionLibrary\bin\Debug\net6.0\FunctionLibrary.pdb
+D:\KIẾN THỨC\1. CÔNG NGHỆ\0. LẬP TRÌNH\CSharp\Practise Algorithm\ClassicProgram\FunctionLibrary\obj\Debug\net6.0\FunctionLibrary.csproj.AssemblyReference.cache
+D:\KIẾN THỨC\1. CÔNG NGHỆ\0. LẬP TRÌNH\CSharp\Practise Algorithm\ClassicProgram\FunctionLibrary\obj\Debug\net6.0\FunctionLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\KIẾN THỨC\1. CÔNG NGHỆ\0. LẬP TRÌNH\CSharp\Practise Algorithm\ClassicProgram\FunctionLibrary\obj\Debug\net6.0\FunctionLibrary.AssemblyInfoInputs.cache
+D:\KIẾN THỨC\1. CÔNG NGHỆ\0. LẬP TRÌNH\CSharp\Practise Algorithm\ClassicProgram\FunctionLibrary\obj\Debug\net6.0\FunctionLibrary.AssemblyInfo.cs
+D:\KIẾN THỨC\1. CÔNG NGHỆ\0. LẬP TRÌNH\CSharp\Practise Algorithm\ClassicProgram\FunctionLibrary\obj\Debug\net6.0\FunctionLibrary.csproj.CoreCompileInputs.cache
+D:\KIẾN THỨC\1. CÔNG NGHỆ\0. LẬP TRÌNH\CSharp\Practise Algorithm\ClassicProgram\FunctionLibrary\obj\Debug\net6.0\FunctionLibrary.dll
+D:\KIẾN THỨC\1. CÔNG NGHỆ\0. LẬP TRÌNH\CSharp\Practise Algorithm\ClassicProgram\FunctionLibrary\obj\Debug\net6.0\refint\FunctionLibrary.dll
+D:\KIẾN THỨC\1. CÔNG NGHỆ\0. LẬP TRÌNH\CSharp\Practise Algorithm\ClassicProgram\FunctionLibrary\obj\Debug\net6.0\FunctionLibrary.pdb
+D:\KIẾN THỨC\1. CÔNG NGHỆ\0. LẬP TRÌNH\CSharp\Practise Algorithm\ClassicProgram\FunctionLibrary\obj\Debug\net6.0\ref\FunctionLibrary.dll

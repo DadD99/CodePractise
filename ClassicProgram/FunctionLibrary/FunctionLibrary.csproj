@@ -6,4 +6,14 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="11-20\" />
+    <Folder Include="21-30\" />
+    <Folder Include="31-40\" />
+    <Folder Include="41-50\" />
+    <Folder Include="51-60\" />
+    <Folder Include="61-70\" />
+    <Folder Include="71-81\" />
+  </ItemGroup>
+
 </Project>
