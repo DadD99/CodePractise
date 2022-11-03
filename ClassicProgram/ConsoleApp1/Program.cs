@@ -14,9 +14,13 @@ namespace ConsoleApp1
             //ExtentionMethods.PrintToConsole($"Tuoi cua ban la: {a}");
 
             //Tinh tien taxi
-            Console.Write("Nhap so km: ");
-            decimal a = Taxi.CostCalculate(Console.ReadLine());
-            ExtentionMethods.PrintToConsole($"So tien la {a}", ConsoleColor.DarkRed);
+            //Console.Write("Nhap so km: ");
+            //decimal a = Taxi.CostCalculate(Console.ReadLine());
+            //ExtentionMethods.PrintToConsole($"So tien la {a}", ConsoleColor.DarkRed);
+
+            Console.Write("Nhap vao mot so nguyen: ");
+            int a = Sum.TinhTongCacChuSo(Console.ReadLine());
+            ExtentionMethods.PrintToConsole($"Tong cac chu so la {a}", ConsoleColor.DarkRed);
         }
     }
 }
